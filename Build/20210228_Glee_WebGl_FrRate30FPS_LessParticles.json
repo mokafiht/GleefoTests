@@ -1,0 +1,19 @@
+{
+"companyName": "ZenytimeGameStudio",
+"productName": "GleefloTest20210226_HTML5_FPS120",
+"productVersion": "1.0",
+"dataUrl": "20210228_Glee_WebGl_FrRate30FPS_LessParticles.data.unityweb",
+"wasmCodeUrl": "20210228_Glee_WebGl_FrRate30FPS_LessParticles.wasm.code.unityweb",
+"wasmFrameworkUrl": "20210228_Glee_WebGl_FrRate30FPS_LessParticles.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1",
+"Access-Control-Allow-Credentials": "true",      
+"Access-Control-Allow-Headers": "Accept, X-Access-Token, X-Application-Name, X-Request-Sent-Time",
+"Access-Control-Allow-Methods": "GET, POST, OPTIONS",      
+"Access-Control-Allow-Origin": "*"
+}
